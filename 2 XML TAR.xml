@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tarjetas>
+  <tarjeta>
+    <header>
+      <nombresistema type="xs:string">SISTEMA BANCARIO</nombresistema>
+      <codigosistema type="xs:string">SB</codigosistema>
+      <localizacion type="xs:string">GT</localizacion>      
+    </header>
+    <data> 
+      <numerotarjeta type="xs:string">4651321321321</numerotarjeta>
+      <idcliente type="xs:integer">554440</idcliente>
+      <tipotarjeta type="xs:integer">200</tipotarjeta>
+    </data>
+  </tarjeta>
+</tarjetas>
